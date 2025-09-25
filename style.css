@@ -108,7 +108,7 @@ h4{
 
 .p-sobremim{
     display: flex;
-    width: 800px;
+    width: 900px;
     text-align: justify;
 }
 
@@ -205,4 +205,12 @@ footer{
     justify-content: center;
     gap: 20px;
     font-size: 12px;
+}
+
+
+@media (max-width: 768px) {
+    header{
+        width: 100vh;
+    }
+   
 }

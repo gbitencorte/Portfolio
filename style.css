@@ -33,6 +33,11 @@ nav a{
     padding-right: 20px;
 }
 
+section{
+    margin-top: 123px;
+    margin-bottom: 97px;
+}
+
 .apresentacao-div{
     border-bottom: 4px solid #2B4C8C;
 }
@@ -63,21 +68,141 @@ h2{
 
 h3{
     color: #F27EA9;
-    font-size: 54px;
+    font-size: 50px;
+    border: 4px solid #F27EA9;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    padding: 8px;
+    width: fit-content; 
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.div-h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 97px;
+}
+
+h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.sobre-mim{
+    border-bottom: 4px solid #2B4C8C;
+    color: #2B4C8C;
+    
+}
+
+.sobre-mim h4{
+    font-size: 25px;
+}
+
+.sobre-mim p{
+    font-size: 20px;
+}
+
+.p-sobremim{
+    display: flex;
+    width: 800px;
+    text-align: justify;
+}
+
+
+.texto-apresentacao{
+    margin-bottom: 123px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.habilidades{
+    border-bottom: 4px solid #2B4C8C;
+    font-size: 20px;
 }
 
 
 
+.habilidades-icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 123px;
+    
+}
+
+.h-icons{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    color: #2B4C8C;
+    margin-top: 20px;
+    
+}
+
+.h-icons img{
+    height: 100px;
+    width: 100px;
+}
+
+.projetos{
+    border-bottom: 4px solid #2B4C8C;
+    font-size: 20px;
+}
+
+.contatos{
+    font-size: 20px;
+}
+
+.c-icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    color: #2B4C8C;
+
+}
+.contatos-icons{
+    margin-top: 97px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    margin-bottom: 170px;
+}
+
+ol{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 97px;
+    flex-direction: column;
+    color: #2B4C8C;
+    gap: 10px;
+    margin-bottom: 123px;
+}
+
+li p{
+    color: #F27EA9;
+}
 
 
 footer{
     background-color: #2B4C8C;
-    height: 100px;
+    height: 150px;
     color: #fff;
     flex-direction: column;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
+    gap: 20px;
     font-size: 12px;
 }

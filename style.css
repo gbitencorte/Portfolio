@@ -258,7 +258,7 @@ footer{
 
     .p-sobremim{
         display: flex;
-        width: 250px;
+        width: 270px;
         text-align: justify;
     }
 
@@ -326,12 +326,15 @@ h1{
 
 h2{
     font-size: 18px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .esquerda-titles{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     flex-direction: column;
 }
 

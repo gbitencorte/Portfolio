@@ -34,8 +34,8 @@ nav a{
 }
 
 section{
-    margin-top: 123px;
-    margin-bottom: 97px;
+    margin-top: 200px;
+    margin-bottom: 200px;
 }
 
 .apresentacao-div{
@@ -135,7 +135,7 @@ h4{
     align-items: center;
     justify-content: center;
     gap: 50px;
-    margin-bottom: 123px;
+    margin-bottom: 200px;
     
 }
 
@@ -177,7 +177,7 @@ h4{
     align-items: center;
     justify-content: center;
     gap: 100px;
-    margin-bottom: 170px;
+    margin-bottom: 200px;
 }
 
 .c-texto img{
@@ -199,7 +199,7 @@ ol{
     flex-direction: column;
     color: #2B4C8C;
     gap: 10px;
-    margin-bottom: 123px;
+    margin-bottom: 200px;
 }
 
 li p{

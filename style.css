@@ -159,6 +159,75 @@ h4{
     font-size: 20px;
 }
 
+.parent{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    margin-bottom: 200px;
+}
+
+.div-card1{
+    background-color: #F27EA9;
+    padding: 60px 20px; 
+    border-radius: 10px;
+    margin-left: 90px;
+}
+
+.div-card2{
+    background-color: #F27EA9;
+    padding: 60px 20px; 
+    border-radius: 10px;
+    
+}
+
+.div-card3{
+    background-color: #F27EA9;
+    padding: 60px 20px; 
+    border-radius: 10px;
+    margin-right: 90px;
+}
+
+.div-card4{
+    background-color: #F27EA9;
+    padding: 60px 20px; 
+    border-radius: 10px;
+    margin-left: 90px;
+}
+.div-card5{
+    background-color: #F27EA9;
+    padding: 60px 20px; 
+    border-radius: 10px;
+    
+}
+.div-card6{
+    background-color: #F27EA9;
+    padding: 60px 20px; 
+    border-radius: 10px;
+     margin-right: 90px;
+}
+.div-card7{
+    background-color: #F27EA9;
+    padding: 60px 20px; 
+    border-radius: 10px;
+    margin-left: 90px;
+    
+}
+.div-card8{
+    background-color: #F27EA9;
+    padding: 60px 20px; 
+    border-radius: 10px;
+    
+}
+.div-card9{
+    background-color: #F27EA9;
+    padding: 60px 20px; 
+    border-radius: 10px;
+    margin-right: 90px;
+    
+}
+
 .contatos{
     font-size: 20px;
 }

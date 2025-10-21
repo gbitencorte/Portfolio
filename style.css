@@ -166,67 +166,32 @@ h4{
     grid-column-gap: 20px;
     grid-row-gap: 20px;
     margin-bottom: 200px;
-}
-
-.div-card1{
-    background-color: #F27EA9;
-    padding: 60px 20px; 
-    border-radius: 10px;
-    margin-left: 90px;
-}
-
-.div-card2{
-    background-color: #F27EA9;
-    padding: 60px 20px; 
-    border-radius: 10px;
     
 }
 
-.div-card3{
+.div-card{
     background-color: #F27EA9;
     padding: 60px 20px; 
-    border-radius: 10px;
-    margin-right: 90px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
-.div-card4{
-    background-color: #F27EA9;
-    padding: 60px 20px; 
-    border-radius: 10px;
-    margin-left: 90px;
+button{
+    background-color: #475f8f;
+    color: #F2EEEB;
+    padding: 10px 20px;
+    border-color: #475f8f;
+
 }
-.div-card5{
-    background-color: #F27EA9;
-    padding: 60px 20px; 
-    border-radius: 10px;
-    
+
+button a{
+    font-size: 15px;
+    font-weight: bold;
 }
-.div-card6{
-    background-color: #F27EA9;
-    padding: 60px 20px; 
-    border-radius: 10px;
-     margin-right: 90px;
-}
-.div-card7{
-    background-color: #F27EA9;
-    padding: 60px 20px; 
-    border-radius: 10px;
-    margin-left: 90px;
-    
-}
-.div-card8{
-    background-color: #F27EA9;
-    padding: 60px 20px; 
-    border-radius: 10px;
-    
-}
-.div-card9{
-    background-color: #F27EA9;
-    padding: 60px 20px; 
-    border-radius: 10px;
-    margin-right: 90px;
-    
-}
+
 
 .contatos{
     font-size: 20px;
